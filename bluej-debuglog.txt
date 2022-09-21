@@ -1,0 +1,14 @@
+BlueJ run started: Wed Sep 21 14:38:43 CEST 2022
+BlueJ version 4.2.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: Y:\W32\java\Bluej4\BlueJ\jdk
+----
+Detected language "czech" based on iso639-2 code "ces"
+Opening project: C:\Users\hore06\lekce_01
+1663764000193: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+java.io.FileNotFoundException while reading import cache: H:\java\bluej\import-cache.xml (Systém nemùže nalézt uvedený soubor)
+Communication with debug VM fully established.
